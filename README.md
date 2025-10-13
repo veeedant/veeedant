@@ -1,17 +1,23 @@
-# special-couscous
-
-# 💻 Tech Stack:
+# Tech Stack:
 ![Python](
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+            <i class="devicon-python-plain"></i>
+          
           )
 ![R](
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+
+            <i class="devicon-r-plain colored"></i>
+          
           ) 
 ![Canva](
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+
+            <i class="devicon-canva-original colored"></i>
+          
           ) 
 ![C++](
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />)
+
+            <i class="devicon-cplusplus-plain colored"></i>
+          )
 # CodeWars Stats:
 ![Codewars](https://github.r2v.ch/codewars?user=vedant_arora&theme=dark&top_languages=true&stroke=blue)
 
