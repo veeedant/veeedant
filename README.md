@@ -1,23 +1,3 @@
-# Tech Stack:
-![Python](
-
-            <i class="devicon-python-plain"></i>
-          
-          )
-![R](
-
-            <i class="devicon-r-plain colored"></i>
-          
-          ) 
-![Canva](
-
-            <i class="devicon-canva-original colored"></i>
-          
-          ) 
-![C++](
-
-            <i class="devicon-cplusplus-plain colored"></i>
-          )
 # CodeWars Stats:
 ![Codewars](https://github.r2v.ch/codewars?user=vedant_arora&theme=dark&top_languages=true&stroke=blue)
 
