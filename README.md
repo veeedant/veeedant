@@ -1,4 +1,4 @@
-# CodeWars Stats:
+# 📊 CodeWars Stats:
 ![Codewars](https://github.r2v.ch/codewars?user=vedant_arora&theme=dark&top_languages=true&stroke=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=veeedant&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
